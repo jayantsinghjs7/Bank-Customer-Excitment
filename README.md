@@ -1,2 +1,2 @@
-# Dog-and-Cat-Recognition
-Deep Learning implementation Using CNN algorithm to differentiate between dog and cat.
+
+Deep Learning implementation of ANN algorithm to predict the probablilty that a customer chooses the new scheme launched by bank.
